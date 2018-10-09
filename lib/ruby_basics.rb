@@ -6,8 +6,8 @@ def assign_variable(value ="Bob")
   value
 end
 
-def argue(name)
-  return name
+def argue(topic)
+  return topic
 end
 
 def greeting(massage,name)
