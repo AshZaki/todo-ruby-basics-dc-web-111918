@@ -10,16 +10,16 @@ def argue(name)
   return name
 end
 
-def greeting
+def greeting(greeting,name)
 
 end
 
-def return_a_value
-
+def return_a_value(phrase = "Nice")
+  phrase
 end
 
 def last_evaluated_value
-
+   
 end
 
 def pizza_party
